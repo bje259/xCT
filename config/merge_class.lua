@@ -254,6 +254,7 @@ addon.merges[212680]    = CreateMergeSpellEntry("HUNTER", 0.5, 254)         -- T
 addon.merges[214581]    = CreateMergeSpellEntry("HUNTER", 1.5, 254)         -- Talent: Sidewinders
 addon.merges[198670]    = CreateMergeSpellEntry("HUNTER", 0.5, 254)         -- Talent: Piercing Shot
 addon.merges[191070]    = CreateMergeSpellEntry("HUNTER", 0.5, 254)         -- Artifact: Call of the Hunter
+addon.merges[257044]	= CreateMergeSpellEntry("HUNTER", 0.5, 254)			-- Rapid Fire
 addon.merge2h[191043]   = 19434                                             -- Windburst
 
 -- Survival (ID: 255) 204081
